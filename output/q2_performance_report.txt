@@ -1,17 +1,17 @@
 Question 2 Performance Report
 
 Facility Provider Stats:
-     mean       std  min  max  range
-19.319728 10.484612  1.0 39.0   38.0
-19.563008 10.702137  1.0 39.0   38.0
-20.160784 11.044011  1.0 39.0   38.0
-19.668687 11.023867  1.0 39.0   38.0
-20.137014 10.581439  1.0 39.0   38.0
-19.381139 10.872386  1.0 39.0   38.0
-19.811676 10.999242  1.0 39.0   38.0
-20.102970 11.077168  1.0 39.0   38.0
-20.209205 11.575935  1.0 39.0   38.0
-20.778182 11.358132  1.0 39.0   38.0
+              facility_name      mean       std  min  max  range
+Cardiology Specialty Center 19.319728 10.484612  1.0 39.0   38.0
+      City General Hospital 19.563008 10.702137  1.0 39.0   38.0
+    Community Health Clinic 20.160784 11.044011  1.0 39.0   38.0
+   Emergency Medical Center 19.668687 11.023867  1.0 39.0   38.0
+      Northside Urgent Care 20.137014 10.581439  1.0 39.0   38.0
+  Oncology Treatment Center 19.381139 10.872386  1.0 39.0   38.0
+      Pediatric Care Center 19.811676 10.999242  1.0 39.0   38.0
+        Primary Care Clinic 20.102970 11.077168  1.0 39.0   38.0
+    Regional Medical Center 20.209205 11.575935  1.0 39.0   38.0
+  Surgical Specialty Center 20.778182 11.358132  1.0 39.0   38.0
 Top Providers by Facility:
               facility_name provider_id    provider_name  years_experience          specialty  encounter_count
 Cardiology Specialty Center      PR0036    Alex Anderson                 6   General Practice                4
