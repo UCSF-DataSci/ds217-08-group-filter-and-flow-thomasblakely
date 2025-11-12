@@ -1,23 +1,36 @@
 Question 2 Performance Report
 
-facility_name,provider_id,provider_name,years_experience,specialty,encounter_count
-Cardiology Specialty Center,PR0036,Alex Anderson,6,General Practice,4
-Cardiology Specialty Center,PR0093,Avery Smith,16,Pediatrics,4
-City General Hospital,PR0079,Taylor Davis,25,Psychiatry,5
-City General Hospital,PR0173,Riley Davis,21,Dermatology,5
-Community Health Clinic,PR0236,Drew Jones,34,Endocrinology,6
-Community Health Clinic,PR0003,Taylor Anderson,7,Pediatrics,5
-Emergency Medical Center,PR0367,Sam Jones,28,Oncology,6
-Emergency Medical Center,PR0216,Taylor Anderson,33,Orthopedics,5
-Northside Urgent Care,PR0143,Taylor Rodriguez,17,Oncology,6
-Northside Urgent Care,PR0416,Avery Smith,24,Pediatrics,5
-Oncology Treatment Center,PR0156,Morgan Miller,34,Psychiatry,5
-Oncology Treatment Center,PR0063,Jamie Davis,10,Cardiology,4
-Pediatric Care Center,PR0031,Cameron Anderson,18,Dermatology,5
-Pediatric Care Center,PR0062,Casey Jones,21,General Practice,5
-Primary Care Clinic,PR0286,Sam Williams,15,Radiology,5
-Primary Care Clinic,PR0058,Cameron Wilson,5,Emergency Medicine,4
-Regional Medical Center,PR0029,Jordan Jones,30,Orthopedics,5
-Regional Medical Center,PR0495,Morgan Williams,2,Emergency Medicine,5
-Surgical Specialty Center,PR0023,Jordan Wilson,30,General Practice,5
-Surgical Specialty Center,PR0292,Taylor Wilson,34,Radiology,5
+Facility Provider Stats:
+     mean       std  min  max  range
+19.319728 10.484612  1.0 39.0   38.0
+19.563008 10.702137  1.0 39.0   38.0
+20.160784 11.044011  1.0 39.0   38.0
+19.668687 11.023867  1.0 39.0   38.0
+20.137014 10.581439  1.0 39.0   38.0
+19.381139 10.872386  1.0 39.0   38.0
+19.811676 10.999242  1.0 39.0   38.0
+20.102970 11.077168  1.0 39.0   38.0
+20.209205 11.575935  1.0 39.0   38.0
+20.778182 11.358132  1.0 39.0   38.0
+Top Providers by Facility:
+              facility_name provider_id    provider_name  years_experience          specialty  encounter_count
+Cardiology Specialty Center      PR0036    Alex Anderson                 6   General Practice                4
+Cardiology Specialty Center      PR0093      Avery Smith                16         Pediatrics                4
+      City General Hospital      PR0079     Taylor Davis                25         Psychiatry                5
+      City General Hospital      PR0173      Riley Davis                21        Dermatology                5
+    Community Health Clinic      PR0236       Drew Jones                34      Endocrinology                6
+    Community Health Clinic      PR0003  Taylor Anderson                 7         Pediatrics                5
+   Emergency Medical Center      PR0367        Sam Jones                28           Oncology                6
+   Emergency Medical Center      PR0216  Taylor Anderson                33        Orthopedics                5
+      Northside Urgent Care      PR0143 Taylor Rodriguez                17           Oncology                6
+      Northside Urgent Care      PR0416      Avery Smith                24         Pediatrics                5
+  Oncology Treatment Center      PR0156    Morgan Miller                34         Psychiatry                5
+  Oncology Treatment Center      PR0063      Jamie Davis                10         Cardiology                4
+      Pediatric Care Center      PR0031 Cameron Anderson                18        Dermatology                5
+      Pediatric Care Center      PR0062      Casey Jones                21   General Practice                5
+        Primary Care Clinic      PR0286     Sam Williams                15          Radiology                5
+        Primary Care Clinic      PR0058   Cameron Wilson                 5 Emergency Medicine                4
+    Regional Medical Center      PR0029     Jordan Jones                30        Orthopedics                5
+    Regional Medical Center      PR0495  Morgan Williams                 2 Emergency Medicine                5
+  Surgical Specialty Center      PR0023    Jordan Wilson                30   General Practice                5
+  Surgical Specialty Center      PR0292    Taylor Wilson                34          Radiology                5
