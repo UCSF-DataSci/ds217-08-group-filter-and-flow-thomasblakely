@@ -1,6 +1,4 @@
-,sum,sum,sum,sum,mean,mean,mean,mean,count,count,count,count
-region,North,South,West,Total,North,South,West,Total,North,South,West,Total
-procedure_code,,,,,,,,,,,,
+procedure_code,"('sum', 'North')","('sum', 'South')","('sum', 'West')","('sum', 'Total')","('mean', 'North')","('mean', 'South')","('mean', 'West')","('mean', 'Total')","('count', 'North')","('count', 'South')","('count', 'West')","('count', 'Total')"
 36415,12130.35,57836.97,48458.05,118425.37,466.5519230769231,416.093309352518,425.0706140350878,424.4636917562724,26,139,114,279
 70450,90236.85,375893.2,312204.53,778334.58,3222.744642857143,2665.909219858156,2623.567478991597,2702.550625,28,141,119,288
 70551,52844.83,234817.26,160891.32,448553.41,2935.823888888889,2762.556,2925.2967272727274,2838.9456329113923,18,85,55,158

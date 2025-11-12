@@ -1,0 +1,23 @@
+Question 2 Performance Report
+
+facility_name,provider_id,provider_name,years_experience,specialty,encounter_count
+Cardiology Specialty Center,PR0036,Alex Anderson,6,General Practice,4
+Cardiology Specialty Center,PR0093,Avery Smith,16,Pediatrics,4
+City General Hospital,PR0079,Taylor Davis,25,Psychiatry,5
+City General Hospital,PR0173,Riley Davis,21,Dermatology,5
+Community Health Clinic,PR0236,Drew Jones,34,Endocrinology,6
+Community Health Clinic,PR0003,Taylor Anderson,7,Pediatrics,5
+Emergency Medical Center,PR0367,Sam Jones,28,Oncology,6
+Emergency Medical Center,PR0216,Taylor Anderson,33,Orthopedics,5
+Northside Urgent Care,PR0143,Taylor Rodriguez,17,Oncology,6
+Northside Urgent Care,PR0416,Avery Smith,24,Pediatrics,5
+Oncology Treatment Center,PR0156,Morgan Miller,34,Psychiatry,5
+Oncology Treatment Center,PR0063,Jamie Davis,10,Cardiology,4
+Pediatric Care Center,PR0031,Cameron Anderson,18,Dermatology,5
+Pediatric Care Center,PR0062,Casey Jones,21,General Practice,5
+Primary Care Clinic,PR0286,Sam Williams,15,Radiology,5
+Primary Care Clinic,PR0058,Cameron Wilson,5,Emergency Medicine,4
+Regional Medical Center,PR0029,Jordan Jones,30,Orthopedics,5
+Regional Medical Center,PR0495,Morgan Williams,2,Emergency Medicine,5
+Surgical Specialty Center,PR0023,Jordan Wilson,30,General Practice,5
+Surgical Specialty Center,PR0292,Taylor Wilson,34,Radiology,5
